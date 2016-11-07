@@ -1,4 +1,4 @@
-# GetCleanFinalProject
+# Getting and Cleaning Data Course Project
 Project submission for the final Getting and Cleaning Data course
 
 To use this script - 
