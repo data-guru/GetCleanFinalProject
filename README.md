@@ -7,4 +7,6 @@ To use this script -
 
 2. Unzip the dataset
 
-3. Place the run_analysis.R script in the base directory for the dataset and execute it using R
+3. Make sure you have the plugins "data.table" and "reshape2" installed
+
+4. Place the run_analysis.R script in the base directory for the dataset and execute it using R
